@@ -1,6 +1,6 @@
 #playlist
 
-* [This is an example](id:anchor1)
+
 * [Antony_Raijekov_-_04_-_Drop_of_whisper_2005.mp3](https://github.com/BogotaJS/bday2012/blob/master/songs/Antony_Raijekov_-_04_-_Drop_of_whisper_2005.mp3)
 * [Antony_Raijekov_-_09_-_Lightout_2003.mp3](https://github.com/BogotaJS/bday2012/blob/master/songs/Antony_Raijekov_-_09_-_Lightout_2003.mp3)
 * [Antony_Raijekov_-_11_-_While_We_Walk_2004.mp3](https://github.com/BogotaJS/bday2012/blob/master/songs/Antony_Raijekov_-_11_-_While_We_Walk_2004.mp3)
