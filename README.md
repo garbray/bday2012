@@ -15,9 +15,9 @@ Crear una aplicación que genere un playlist colaborativo. El usuario master gen
 
 
 #Criterios de evaluación
-* Que funcione con todo lo que se pide.
-* Solución óptima
-* Velocidad
-* Consumo de memoria
-* Lineas de código
-* Recursos utilizados
+1. Que funcione con todo lo que se pide.
+2. Solución óptima
+3. Velocidad
+4. Consumo de memoria
+5. Lineas de código
+6. Recursos utilizados
