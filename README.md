@@ -1,0 +1,23 @@
+#Vanilla Javascript is faster than Forrest Gump
+
+El primer ejercicio requerirá que los participantes usen cero librerías para desarrollarlo. 
+La idea es desarrollar una miniaplicación que pueda ser incluída en cualquier sitio web a través de un tag script.
+Debe permitir que el usuario pueda seleccionar elementos del DOM, se les sea extraída la información sobre la imagen de fondo y que luego se genere una sprite con dicha información. 
+Todo esto haciendo uso de JS en el browser. No server.
+
+
+#Face/Off
+
+Una aplicación que tomando datos de la cámara web, genere una representación espejo en DOM de los pixeles en tiempo real.
+
+#HTML5
+Crear una aplicación que genere un playlist colaborativo. El usuario master genera un playlist el cual comparte con otros usuarios. Habrá un lista. Los usuarios podrán encolar canciones para dicha playlist y votar en tiempo real para que una canción suba o baje en la cola de reproducción. La app debería reproducir la cola de reproducción solamente en la máquina master. Sin embargo, cada usuario podrá reproducir cada canción desde su máquina. Las votaciones y manejo de la lista de reproducción se debería poder ver en tiempo real.
+
+
+#Criterios de evaluación
+* Que funcione con todo lo que se pide.
+* Solución óptima
+* Velocidad
+* Consumo de memoria
+* Lineas de código
+* Recursos utilizados
