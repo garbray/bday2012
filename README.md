@@ -5,6 +5,8 @@ La idea es desarrollar una miniaplicación que pueda ser incluída en cualquier 
 Debe permitir que el usuario pueda seleccionar elementos del DOM, se les sea extraída la información sobre la imagen de fondo y que luego se genere una sprite con dicha información. 
 Todo esto haciendo uso de JS en el browser. No server.
 
+El test se va a hacer con [old.osaki.com.co](http://old.osaki.com.co)
+
 
 #Face/Off
 
